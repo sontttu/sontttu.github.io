@@ -1,8 +1,3 @@
----
-layout: home
-title: "Welcome to My Site"
-description: "My GitHub Pages site"
----
 
 # Hello World!
 
